@@ -16,5 +16,5 @@ object Dep {
         const val auto = "com.google.auto.service:auto-service:1.0-rc4"
     }
 
-    val javaVersion = JavaVersion.VERSION_11
+    val javaVersion = JavaVersion.VERSION_1_8
 }
