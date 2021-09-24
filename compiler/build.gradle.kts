@@ -30,7 +30,7 @@ afterEvaluate {
             create<MavenPublication>("release") {
                 groupId = "com.github.watanavex.fulla"
                 artifactId = "compiler"
-                version = "1.0.3"
+                version = "1.0.5"
 
                 from(components["java"])
             }
